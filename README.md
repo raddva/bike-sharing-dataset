@@ -1,5 +1,5 @@
-# Data Analysis of Air Quality Dataset
-Submission for Dicoding Data Analysis Project of Air Quality Dataset
+# Data Analysis of Bike Sharing Dataset
+Submission for Dicoding Data Analysis Project of Bike Sharing Dataset
 
 ## Setup Environment - Anaconda
 ```
