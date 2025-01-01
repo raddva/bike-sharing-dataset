@@ -9,7 +9,7 @@ sns.set_theme(style='dark')
 st.title('Analisis Bike Sharing Dataset')
 
 # Load dataset
-main_data = pd.read_csv("main_data.csv")
+main_data = pd.read_csv("dashboard/main_data.csv")
 main_data['dteday'] = pd.to_datetime(main_data['dteday'])
 
 # Map deskripsi
