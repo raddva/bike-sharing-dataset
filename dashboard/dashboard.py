@@ -25,7 +25,7 @@ weekday_mapping = {
     4: 'Thursday', 5: 'Friday', 6: 'Saturday'
 }
 
-# Add readable labels to the dataset
+# Add label
 main_data['season_label'] = main_data['season'].map(season_mapping)
 main_data['weather_label'] = main_data['weathersit'].map(weather_mapping)
 main_data['weekday_label'] = main_data['weekday'].map(weekday_mapping)
